@@ -1,6 +1,6 @@
 {
-  "name": "refly-monorepo",
-  "description": "Refly AI Monorepo",
+  "name": "refly-ai",
+  "description": "Refly AI",
   "version": "0.8.0",
   "private": true,
   "engines": {
